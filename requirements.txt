@@ -1,0 +1,13 @@
+# Tested with: Python 3.12, streamlit 1.64, pandas 3.0, plotly 7.1
+streamlit>=1.64
+pandas>=2.0
+numpy>=1.24
+plotly>=5.20
+# report + notebook tooling (not needed to run the Streamlit app)
+matplotlib>=3.7
+reportlab>=4.0
+pillow>=10.0
+jupyter
+nbformat
+nbconvert
+ipykernel
